@@ -3,7 +3,7 @@
     padding: 0px;
     box-sizing: border-box;
 }
-section {
+.lastsection {
     max-width: 1024px;
     margin: 0px auto;
     height: 100vh;
@@ -47,7 +47,7 @@ h2 {
     display: flex;
     justify-content: center;
 }
-button img {
+.button img {
     width: 40px;
 }
 .wrapper-text {
